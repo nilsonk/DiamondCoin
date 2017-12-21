@@ -1,0 +1,2 @@
+# DiamondCoin
+Crypto Currency
